@@ -2,19 +2,20 @@
 
 ![Stanford](https://img.shields.io/badge/Stanford-Code%20in%20Place-red)
 ![Python](https://img.shields.io/badge/Python-Programming-blue)
-![CS106A](https://img.shields.io/badge/Stanford-CS106A-green)
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Muhammad Ali**, a **Section Leader** for Stanford University's **Code in Place 2026** program.
+Hi! I'm **Sana Sajid**, a **Section Leader** for Stanford University's **Code in Place 2026** program.
 
-I am an **Electrical Engineer** and **AI Engineer** passionate about:
+I am a **Nutritioist** and **AI & ML enthusiastic**:
 
-- Teaching programming
-- Mentoring beginner developers
-- Building AI & Web projects
-- Creating engaging learning environments
-- Helping students grow with confidence
+- Applying AI and machine learning to nutrition and public health research
+- Analyzing dietary patterns and their impact on health outcomes using data-driven approaches
+- Developing predictive models, risk assessment tools, and personalized nutrition solutions
+- Leveraging big data to address complex challenges in nutrition, healthcare, and population health
+- Promoting evidence-based nutrition, preventive healthcare, and healthy lifestyle interventions
+```
+
 
 This repository contains my:
 
@@ -74,13 +75,12 @@ As a Section Leader, I:
 I mentored students from different countries around the world including:
 
 - United States
-- Chile
-- Brazil
-- Guatemala
-- Zambia
-- Mexico
 - Peru
-- Taiwan
+- Argentina
+- Nigeria
+- Germany
+- Mexico
+- India
 
 This global classroom experience helped create an inclusive and collaborative learning environment.
 
@@ -123,14 +123,13 @@ I also conducted multiple cover sections for international students across diffe
 
 ### Students Taught From
 
-United States, Canada, Australia, Bangladesh, Brazil, Colombia, Chile, Dominican Republic, Ethiopia, Honduras, Mexico, Netherlands, Japan, Ireland, Italy, Turkey, Spain, Philippines, Afghanistan, Peru, Poland, Pakistan, Nepal, Nigeria, Zambia, El Salvador, Kenya, South Africa, Singapore, Bolivia, Ecuador, France.
+United States, Canada, Australia, Bangladesh, Brazil, Colombia, Chile.
 
 ---
 
 ## 💡 Skills Demonstrated
 
 - Python Programming
-- Stanford CS106A Concepts
 - Technical Mentorship
 - Global Teaching Experience
 - Public Speaking
@@ -193,8 +192,6 @@ Special thanks to:
 - Stanford University
 - Code in Place Team
 - Head TAs & Fellow Section Leaders
-- iCodeGuru Community
-- Dr. Zafar Shahid for mentorship and guidance throughout this journey
 
 ---
 
