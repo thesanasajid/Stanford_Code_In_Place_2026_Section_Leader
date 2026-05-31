@@ -128,8 +128,8 @@ Conducted **7 TeachNow sessions** on:
 
 ## Connect
 
-LinkedIn: https://www.linkedin.com/in/engr-muhammad-ali-7b8a26262/  
-GitHub: https://github.com/muhammad-ali81  
+LinkedIn: linkedin.com/in/the-sana-sajid 
+Gmail:: sana.sajid547@gmail.com
 
 ---
 
@@ -137,7 +137,7 @@ GitHub: https://github.com/muhammad-ali81
 
 - Stanford University  
 - Code in Place Team  
-- Teaching Staff  
+- Head TAs & Fellow Section Leaders
 
 ---
 
